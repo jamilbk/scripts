@@ -10,6 +10,6 @@ tell application "TextMate"
 	set bounds of the front window to {260, 600, 960, 1200}
 end tell
 
-tell application "Google Chrome"
+tell application "Google Chrome Canary"
 	set bounds of the front window to {960, 20, 1920, 1200}
 end tell
