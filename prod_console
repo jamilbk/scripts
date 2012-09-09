@@ -1,0 +1,5 @@
+#!/usr/bin/env sh
+
+# loads a rails console in the prod environment through ssh tunnel
+
+ssh app.kokohub.com 'source .bash_login && cd coupa/current && bundle exec rails c production'
