@@ -1,0 +1,2 @@
+#!/usr/bin/env sh
+/Applications/Google\ Chrome\ Canary.app/Contents/MacOS/Google\ Chrome\ Canary --disable-web-security 2>/dev/null 1>/dev/null &
